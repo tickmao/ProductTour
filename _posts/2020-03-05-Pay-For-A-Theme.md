@@ -25,11 +25,11 @@ catalog:     true
 
 等等这一系列软件，我都曾尝试去使用这个主题，一方面是他的配色确实让我觉得还比较舒服，另一方面，统一的主题可能是我小小的强迫症。
 
-其实，『美化』一直是希望有个性同时对当前显示不满人的一种追求。即差异化心理。
+其实，"美化"一直是希望有个性的同时也是对当前样式不满的人的一种追求。即差异化心理。
 
 ### Dracula PRO
 
-最近这个主题推出了专业版，提供了一些列新的主题方案，可能之前我们很难想象会为一款主题付费，哪怕他确实是支持了足够多日常常用的软件，以及作者花费了很多精力和时间去制作以及维护。那么你会为这样一款主题付费么？
+最近这个主题推出了专业版，提供了一些列新的主题方案，可能之前我们很难想象会为一款主题付费，哪怕他确实支持了足够多日常常用的软件，以及曾花费了很多精力和时间去制作以及维护。那么你会为这样一款主题付费么？
 
 ![Dracula PRO](https://ae01.alicdn.com/kf/H998a1394d19440578ddded3f0583fbc5W.png)
 
@@ -45,14 +45,12 @@ catalog:     true
 
 不过，也许有人对他很狂热、喜爱，为其付费也说不定。
 
-### Comment
+### Comments
 
-我曾在他推出之后看样的评论：
+我曾在他推出之后看到如下的评论：
 
 > - I'm not saying that this guy didn't spend time and effort to build this theme. I just don't want to pay for that.
->
 > - A lot of work went into this as far as I can see, but for some reason I can't really imagine that I would pay for a theme. It does look amazing though.
->
 > - Dracula is without doubt one of my favorite themes. But I won’t pay for a great theme's alternative release.
 
 我认为是很正常的事情，如果对主题比较感兴趣，可以看一下下面的这个视频。
